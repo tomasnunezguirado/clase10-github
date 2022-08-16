@@ -3,3 +3,15 @@
     padding: 0;
     box-sizing: border-box;
 }
+
+h1{
+    font-family: 'Courier New', Courier, monospace;
+    color: blue;
+    font-size: 45px;
+}
+
+h1:hover{
+    color:cadetblue;
+    text-decoration: underline;
+    transition: .3s;
+}
